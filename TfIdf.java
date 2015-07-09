@@ -9,7 +9,6 @@ import java.util.List;
 
 public class TfIdf 
 {
-    
     // Calculates the tf of term termToCheck
     // totalterms : Array of all the words under processing document
     // termToCheck : term of which tf is to be calculated.
